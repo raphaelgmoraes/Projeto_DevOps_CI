@@ -1,4 +1,4 @@
-# Projeto DevOps e integracao Continua
+# Projeto DevOps e Integracao Continua
 
 Projeto para teste e Homologacao de uma Infraestrutura com DevOps e CI.
 
@@ -14,6 +14,6 @@ Ferramentas utilizadas serão:
 
 - GitHub >> Servidor Cloud que ira armazenar os aquivos e software desenvolvidos.
 
-- Docker >> Gerador de Conteiners de S.O Linux.
+- Docker >> Gerador de Conteiners de Sistema Operacional Linux.(Virtualização)
 
 Projeto Desenvolvido por: Raphael Gomes Moraes
